@@ -4,3 +4,5 @@
 #### Header 4 Example
 ##### Header 5 Example
 ###### Header 6 Example
+
+![Image of Garfield the Cat](https://github.com/user-attachments/assets/ca5805b2-c051-4537-974c-c96e89594244)
