@@ -12,3 +12,8 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+
+- [ ] Open index.md file to edit.
+- [ ] Complete the Tasks.
+- [ ] Commit changes. 
